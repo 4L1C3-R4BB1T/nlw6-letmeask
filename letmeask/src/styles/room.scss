@@ -25,21 +25,20 @@
         }
     }
     
-    @media (max-width: 460px) {
-        .content {
-            > div {
-                margin-top: 15px;
-                flex-direction: column;
-            }
-        }
-    }
-
     @media (max-width: 640px) {
         .content {
             flex-direction: column;
 
             > div {
                 margin-top: 15px;
+            }
+        }
+    }
+
+    @media (max-width: 460px) {
+        .content {
+            > div {
+                flex-direction: column;
             }
         }
     }
