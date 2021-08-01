@@ -11,14 +11,43 @@
         justify-content: space-between;
         align-items: center;
 
-        >img {
+        > img {
             max-height: 45px;
+        }
+
+        > div {
+            display: flex;
+            gap: 16px;
+
+            button {
+                height: 40px;
+            }
+        }
+    }
+    
+    @media (max-width: 460px) {
+        .content {
+            > div {
+                margin-top: 15px;
+                flex-direction: column;
+            }
+        }
+    }
+
+    @media (max-width: 640px) {
+        .content {
+            flex-direction: column;
+
+            > div {
+                margin-top: 15px;
+            }
         }
     }
 
     main {
-        max-width: 800px;
+        max-width: 840px;
         margin: 0 auto;
+        padding: 0 20px;
 
         .room-title {
             margin: 32px 0 24px;
@@ -78,7 +107,7 @@
                     }
                 }
 
-                >span {
+                > span {
                     font-size: 14px;
                     color: #737380;
                     font-weight: 500;

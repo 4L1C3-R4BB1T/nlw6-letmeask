@@ -51,7 +51,7 @@
         align-items: stretch;
         text-align: center;
 
-        >img {
+        > img {
             align-self: center;
         }
 
@@ -139,6 +139,20 @@
             height: 1px;
             background: #a8a8b3;
             margin-left: 16px;
+        }
+    }
+}
+
+@media (max-width: 790px) {
+    #page-auth {
+        flex-direction: column;
+
+        aside {
+            align-items: center;
+        }
+
+        .main-content {
+            margin: 50px 0;
         }
     }
 }
