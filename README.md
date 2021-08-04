@@ -11,6 +11,7 @@ A aplicação consiste em um sistema onde o usuário pode criar salas e pergunta
 
 ## Layout
 
+
 # Tecnologias Utilizadas
 - HTML
 - SCSS
@@ -21,7 +22,7 @@ A aplicação consiste em um sistema onde o usuário pode criar salas e pergunta
 # clonar o repositório
 git clone https://github.com/4L1C3-R4BB1T/nlw6-letmeask.git
 
-# entrar na pasta podcastr
+# entrar na pasta letmeask
 cd letmeask
 
 # instalação das dependências
