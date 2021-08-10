@@ -10,7 +10,10 @@ Letmeask é um projeto construído durante a 6ª **Next Level Week**, da [Rocket
 A aplicação consiste em um sistema onde o usuário pode criar salas e perguntas sobre determinado tema.
 
 ## Layout
-
+<img src="https://github.com/4L1C3-R4BB1T/nlw6-letmeask/raw/main/_assets/web1.png" alt="Web 1">
+<img src="https://github.com/4L1C3-R4BB1T/nlw6-letmeask/raw/main/_assets/web2.png" alt="Web 2">
+<img src="https://github.com/4L1C3-R4BB1T/nlw6-letmeask/raw/main/_assets/web3.png" alt="Web 3">
+<img src="https://github.com/4L1C3-R4BB1T/nlw6-letmeask/raw/main/_assets/web4.png" alt="Web 4">
 
 # Tecnologias Utilizadas
 - HTML
